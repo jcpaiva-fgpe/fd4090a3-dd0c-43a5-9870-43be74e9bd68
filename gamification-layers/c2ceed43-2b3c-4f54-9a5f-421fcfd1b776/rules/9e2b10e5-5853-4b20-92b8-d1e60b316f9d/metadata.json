@@ -1,0 +1,1 @@
+{"id":"9e2b10e5-5853-4b20-92b8-d1e60b316f9d","name":"rrrr","criteria":{"conditions":[{"order":0,"left_entity":"FIXED","left_property":"z","comparing_function":"LESS_THAN","right_entity":"FIXED","right_property":"x"}],"junctors":["AND"]},"actions":[{"type":"GIVE","parameters":["28af8273-b837-4121-b5cd-f57350c94001","oo"]}]}
