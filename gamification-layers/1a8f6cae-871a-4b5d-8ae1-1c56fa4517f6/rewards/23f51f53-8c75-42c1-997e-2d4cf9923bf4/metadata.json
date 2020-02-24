@@ -1,0 +1,1 @@
+{"id":"23f51f53-8c75-42c1-997e-2d4cf9923bf4","name":"rrr","description":"ttt","kind":"POINT","amount":5,"revealables":[],"unlockables":[],"congratulations":[],"hints":[],"criteria":{"conditions":[{"order":0,"left_entity":"FIXED","left_property":"a","comparing_function":"LESS_THAN","right_entity":"FIXED","right_property":"b"}],"junctors":["AND"]}}
